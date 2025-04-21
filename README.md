@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @juliobrenner
-- 👀 I’m interested in ABAP
-- 🌱 I’m currently learning ABAP
-- 💞️ I’m looking to collaborate on ABAP
-- 📫 How to reach me ABAP
+- 👀 I’m interested in SAP BTP
+- 🌱 I’m currently SAP Copnsutant
+- 💞️ I’m looking to collaborate on CPI / PI/PO / ABAP
+- 📫 How to reach me CPI
 
 <!---
 juliobrenner/juliobrenner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
